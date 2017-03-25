@@ -1,5 +1,5 @@
 # zebra-extension
-Chrome Extension which adds John Oliver's dancing Bolivian Zebra to any video on the page
+Chrome Extension which adds [John Oliver's dancing Bolivian Zebra](https://www.youtube.com/watch?v=pzheZlnz9TU) to any video on the page
 
 # Usage
 
