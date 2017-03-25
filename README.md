@@ -7,6 +7,6 @@ Simply [install the Chrome Extension](http://bit.ly/dancing-zebras) and then cli
 
 It works on [YouTube](http://youtube.com), [NY Times](http://nytimes.com), [Sydney Morning Herald](http://smh.com.au) and many more websites.
 
-![YouTube screenshot](images/YouTubeScreenshot.png)
-![NY Times screenshot](images/NYTimesScreenshot.png)
-![SMH screenshot](images/SMHScreenshot.png)
+![YouTube screenshot](promo-images/YouTubeScreenshot.png)
+![NY Times screenshot](promo-images/NYTimesScreenshot.png)
+![SMH screenshot](promo-images/SMHScreenshot.png)
