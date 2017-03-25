@@ -3,7 +3,7 @@ Chrome Extension which adds [John Oliver's dancing Bolivian Zebra](https://www.y
 
 # Usage
 
-Simply install the Chrome Extension and then click the icon in your browser when you're on a page that has a video playing. Hilarity will ensue.
+Simply [install the Chrome Extension](http://bit.ly/dancing-zebras) and then click the icon in your browser when you're on a page that has a video playing. Hilarity will ensue.
 
 It works on [YouTube](http://youtube.com), [NY Times](http://nytimes.com), [Sydney Morning Herald](http://smh.com.au) and many more websites.
 
